@@ -31,4 +31,8 @@ To deploy the model in an application where it works with streaming data for mor
 Scale the application so it is able to work with large datasets( Big Data).
 
 
+Crisp-DM Architecture - https://docs.google.com/document/d/10kmEmam3eCIbbIfqS3B5gzzonsxFUuiyRlvLi7ZGFro/edit?usp=sharing
+Project Demo - https://drive.google.com/file/d/1JghSMOz80jfAHf0eqSRjzsd6W8siuMCz/view?usp=sharing
+
+
 
