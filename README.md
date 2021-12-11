@@ -12,14 +12,16 @@ To solve this problem, a recommendation system can be used. Based on the user pr
 Data Sources
 
 Movie Lens Database
-TMDB data using APIs
-IMDB data using APIs
 
-Team Members
+
+Team Members - Team Outliers
 
 Harika Nalam
+
 Rajvi Shah
+
 Sharad Nataraj
+
 Shreya Nimbhorkar
 
 Goals
